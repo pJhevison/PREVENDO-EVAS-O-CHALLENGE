@@ -1,7 +1,5 @@
 # 📊 Análise e Previsão de Evasão de Clientes (Churn) | Desafio Alura + Oracle ONE
 
-![Capa do Projeto](https://i.imgur.com/8aZgY4Z.png)
-
 Este repositório documenta a solução completa para o desafio de Data Science da **Alura + Oracle Next Education**, focado em **analisar e prever a evasão de clientes (Churn)** em uma empresa de telecomunicações.
 
 ---
