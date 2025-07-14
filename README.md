@@ -83,12 +83,6 @@ A empresa pode reduzir significativamente sua taxa de evasão com estratégias v
 ## 👨‍💻 Autor
 
 **Pedro Jhevison**
-
-📧 Email: [seu-email-aqui@email.com]  
-📱 WhatsApp: [(92) 99373-4720](https://wa.me/5592993734720)  
-📸 Instagram: [@pj_.style](https://instagram.com/pj_.style)  
-💼 LinkedIn: [Seu LinkedIn aqui](#)
-
 ---
 
 📌 Projeto desenvolvido como parte do programa **Oracle Next Education + Alura**, com foco em resolução de problemas reais através da Ciência de Dados.
